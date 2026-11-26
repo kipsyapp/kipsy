@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kipsy</title>
+<link rel="icon" href="icone.png">
+<style>:root { --fond:#0b0b0d; --carte:#17171b; --texte:#f2f2f2; --doux:#a3a3ad; --bord:#2a2a30; --acc:#c6f432; }
+@media (prefers-color-scheme: light) { :root { --fond:#f6f6f2; --carte:#ffffff; --texte:#1c1c1e; --doux:#5c5c66; --bord:#e2e2dc; --acc:#4d6b00; } }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--fond); color:var(--texte); font:16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width:760px; margin:0 auto; padding:32px 16px 64px; }
+header { display:flex; align-items:center; gap:12px; margin-bottom:24px; }
+header img { width:48px; height:48px; border-radius:14px; }
+header a { color:var(--texte); text-decoration:none; font-weight:800; font-size:20px; }
+h1 { font-size:28px; line-height:1.2; margin:0 0 8px; }
+h2 { font-size:19px; margin:28px 0 8px; }
+p { margin:0 0 12px; }
+a { color:var(--acc); }
+.doux { color:var(--doux); font-size:14px; }
+.cartes { display:grid; gap:12px; margin-top:24px; }
+.carte { display:block; background:var(--carte); border:1px solid var(--bord); border-radius:18px; padding:16px 18px; color:var(--texte); text-decoration:none; }
+.carte b { display:block; font-size:17px; }
+footer { margin-top:40px; padding-top:16px; border-top:1px solid var(--bord); }
+</style>
+</head>
+<body>
+<main>
+<header><img src="icone.png" alt=""><a href="./">Kipsy</a></header>
+<h1>Kipsy</h1>
+<p>L'appli qui range tes abonnements, tes factures et tes garanties, et qui te prévient avant chaque prélèvement. Sans compte : tes données restent sur ton téléphone.</p>
+<div class="cartes">
+<a class="carte" href="confidentialite.html"><b>Politique de confidentialité</b><span class="doux">Ce que fait l'appli de tes données</span></a>
+<a class="carte" href="conditions.html"><b>Conditions d'utilisation</b><span class="doux">Les règles de l'appli</span></a>
+<a class="carte" href="mailto:contact.kipsy@gmail.com"><b>Nous écrire</b><span class="doux">contact.kipsy@gmail.com</span></a>
+</div>
+
+<footer class="doux">Kipsy · <a href="./">Accueil</a> · <a href="confidentialite.html">Confidentialité</a> · <a href="conditions.html">Conditions</a> · <a href="mailto:contact.kipsy@gmail.com">contact.kipsy@gmail.com</a></footer>
+</main>
+</body>
+</html>
