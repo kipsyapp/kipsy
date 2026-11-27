@@ -1,0 +1,3 @@
+Les ratons qui parlent : <raton>_<emotion>.png
+raton : bleu, or, neon, encre, luxe (le meme que celui du theme)
+emotion : content, inquiet, malin, serieux, calme
