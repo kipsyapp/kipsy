@@ -136138,7 +136138,7 @@ for(;q<s.length;s.length===r||(0,A.p)(s),++q){i=s[q]
 h="assets/badges/trophee_"+(i<=5?i:10)+".png"
 h=B.b.bV(b1.ch,new A.aC3(i))?A.mD(h,B.fM,b0,b0):new A.mQ(0.3,new A.K1(B.yB,A.mD(h,B.fM,b0,b0),b0),b0)
 g=$.b()
-n.push(A.aq(b0,A.w(A.a([new A.cp(50,50,h,b0),B.aS,A.d("An "+i,b0,b0,b0,b0,new A.r(!0,g.y,b0,b0,b0,b0,11,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0,b0)],k),B.j,B.c,B.d),B.m,!1,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,new A.aC4(p,b1,i,b4),b0,b0,b0,b0,b0,b0,!1,B.p))}s=A.ay(b0,A.w(A.a([B.b_c,m,B.u,A.ca(B.Y,n,B.a1,10,6)],k),B.n,B.c,B.d),!1,b0,16,20)
+n.push(A.aq(b0,A.w(A.a([new A.cp(44,44,h,b0),B.aS,A.d("An "+i,b0,b0,b0,b0,new A.r(!0,g.y,b0,b0,b0,b0,11,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0,b0)],k),B.j,B.c,B.d),B.m,!1,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,new A.aC4(p,b1,i,b4),b0,b0,b0,b0,b0,b0,!1,B.p))}s=A.ay(b0,A.w(A.a([B.b_c,m,B.u,A.ca(B.Y,n,B.a1,10,6)],k),B.n,B.c,B.d),!1,b0,16,20)
 r=A.I(A.a([B.Zw,A.d(""+new A.a2(B.na,new A.aC5(b2),t.or).gB(0)+" / 20",b0,b0,b0,b0,A.l(b0,b0,$.b().y,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0,b0)],k),B.j,b0,B.c,B.d,0,b0)
 n=A.d("Tu les gagnes en montant de niveau. Touche-en un pour le mettre en avatar.",b0,b0,b0,b0,A.l(b0,b0,$.b().y,b0,b0,b0,b0,b0,b0,b0,b0,12,b0,b0,b0,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0,b0)
 m=A.a([],k)
